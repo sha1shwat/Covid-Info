@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Oct 16 11:28:02 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-017c-87ad-baf9-000004a17618 
+on database directory memory:/home/arpit/Documents/projects/challenge/csvdb with class loader sun.misc.Launcher$AppClassLoader@7f31245a 
+Loaded from file:/home/arpit/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_292-8u292-b10-0ubuntu1-b10
+user.dir=/home/arpit/Documents/projects/challenge
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-37-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
